@@ -1,0 +1,2 @@
+# Library Management System – book records
+# Format: bookId|title|author|publicationYear (0 = not provided)
